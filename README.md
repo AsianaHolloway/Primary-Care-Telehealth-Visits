@@ -88,6 +88,6 @@ Primary care telehealth has evolved from a niche solution into a critical mode o
 Author
 
 Asiana Holloway 
-Graduate Student – Introduction to Health Informatics 
+Graduate Student – AI in Healthcare  
 GitHub: [AsianaHolloway](https://github.com/AsianaHolloway)
 
